@@ -5,6 +5,8 @@ Created on Sat May 15 15:14:55 2021
 
 @author: kivancaykac
 removes every 24th frame in an exported image sequence file
+
+!!! becareful before running. Make sure you backup first!!!
 """
 import os
 
